@@ -1,8 +1,6 @@
-
 <a target="_blank" href="https://colab.research.google.com/github/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
 
 
 # Loan-default-prediction
@@ -33,7 +31,7 @@ recommendations to the bank on the important features to consider while approvin
 
 
 
-[Detailed notebook](https://github.com/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb)
+[Detailed notebook] (https://github.com/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb)
 
 
 
