@@ -31,7 +31,7 @@ recommendations to the bank on the important features to consider while approvin
 
 
 
-[Detailed notebook] (https://github.com/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb)
+[Detailed notebook](https://github.com/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb)
 
 
 
