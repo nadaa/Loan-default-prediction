@@ -30,7 +30,6 @@ recommendations to the bank on the important features to consider while approvin
 - (numpy, pandas, matplotlib, seaborn, scikit-learn, imblearn, xgboost)
 
 
-
 [Detailed notebook](https://github.com/nadaa/Loan-default-prediction/blob/main/Capstone_Project_Loan_Default_Prediction.ipynb)
 
 
